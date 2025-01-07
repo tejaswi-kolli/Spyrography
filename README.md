@@ -1,1 +1,1 @@
-# Spyrography
+# Spyrograph
